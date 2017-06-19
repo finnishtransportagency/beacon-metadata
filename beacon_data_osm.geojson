@@ -2,8 +2,140 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2017-06-15T13:35:55Z",
+  "timestamp": "2017-06-19T10:35:06Z",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/418349400",
+        "beacon:major": "49",
+        "beacon:minor": "1033",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "dfff7ada-a48a-4f77-aa9a-3a7943641e6c",
+        "highway": "bus_stop",
+        "indoormark": "beacon",
+        "layer": "-1",
+        "level": "0",
+        "name": "Leppävaaran asema",
+        "name:fi": "Leppävaaran asema",
+        "name:sv": "Alberga station",
+        "public_transport": "platform",
+        "ref": "E1033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8134654,
+          60.2191874
+        ]
+      },
+      "id": "node/418349400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1518655356",
+        "alt_ref": "16",
+        "beacon:major": "49",
+        "beacon:minor": "1024",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "dfff7ada-a48a-4f77-aa9a-3a7943641e6c",
+        "highway": "bus_stop",
+        "indoormark": "beacon",
+        "name": "Leppävaara",
+        "name:fi": "Leppävaara",
+        "name:sv": "Alberga",
+        "ref": "E1024",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8126228,
+          60.2192372
+        ]
+      },
+      "id": "node/1518655356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1518655369",
+        "alt_ref": "15",
+        "beacon:major": "49",
+        "beacon:minor": "1025",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "dfff7ada-a48a-4f77-aa9a-3a7943641e6c",
+        "highway": "bus_stop",
+        "indoormark": "beacon",
+        "name": "Leppävaara",
+        "name:fi": "Leppävaara",
+        "name:sv": "Alberga",
+        "ref": "E1025",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8120865,
+          60.2192689
+        ]
+      },
+      "id": "node/1518655369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1518655372",
+        "alt_ref": "14",
+        "beacon:major": "49",
+        "beacon:minor": "1026",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "dfff7ada-a48a-4f77-aa9a-3a7943641e6c",
+        "highway": "bus_stop",
+        "indoormark": "beacon",
+        "name": "Leppävaara",
+        "name:fi": "Leppävaara",
+        "name:sv": "Alberga",
+        "ref": "E1026",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8116415,
+          60.2192952
+        ]
+      },
+      "id": "node/1518655372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1518655390",
+        "alt_ref": "13",
+        "beacon:major": "49",
+        "beacon:minor": "1027",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "dfff7ada-a48a-4f77-aa9a-3a7943641e6c",
+        "highway": "bus_stop",
+        "indoormark": "beacon",
+        "name": "Leppävaara",
+        "name:fi": "Leppävaara",
+        "name:sv": "Alberga",
+        "ref": "E1027",
+        "route_ref": "236;236K;236V;239;239T",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8111762,
+          60.2193227
+        ]
+      },
+      "id": "node/1518655390"
+    },
     {
       "type": "Feature",
       "properties": {
