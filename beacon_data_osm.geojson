@@ -2,8 +2,28 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2017-06-19T10:35:06Z",
+  "timestamp": "2017-06-27T09:40:02Z",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/38461143",
+        "beacon:major": "0068",
+        "beacon:minor": "0x829",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "indoormark": "beacon",
+        "level": "-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8134806,
+          60.2196112
+        ]
+      },
+      "id": "node/38461143"
+    },
     {
       "type": "Feature",
       "properties": {
@@ -12,7 +32,6 @@
         "beacon:minor": "1033",
         "beacon:type": "bluetooth",
         "beacon:uuid": "dfff7ada-a48a-4f77-aa9a-3a7943641e6c",
-        "highway": "bus_stop",
         "indoormark": "beacon",
         "layer": "-1",
         "level": "0",
@@ -160,8 +179,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4916030468",
-        "beacon:major": "0044",
-        "beacon:minor": "0x22A",
+        "beacon:major": "0068",
+        "beacon:minor": "0x1029",
         "beacon:type": "bluetooth",
         "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
         "indoormark": "beacon",
@@ -175,6 +194,85 @@
         ]
       },
       "id": "node/4916030468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4924219526",
+        "beacon:major": "0068",
+        "beacon:minor": "0x2029",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "indoormark": "beacon",
+        "level": "-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8134855,
+          60.2191717
+        ]
+      },
+      "id": "node/4924219526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4924233965",
+        "beacon:major": "0068",
+        "beacon:minor": "0x42A",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "indoormark": "beacon",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8159735,
+          60.2194183
+        ]
+      },
+      "id": "node/4924233965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4924246237",
+        "beacon:major": "0068",
+        "beacon:minor": "0x102A",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "indoormark": "beacon",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8159624,
+          60.2192188
+        ]
+      },
+      "id": "node/4924246237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4924249255",
+        "beacon:major": "0068",
+        "beacon:minor": "0x830",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "indoormark": "beacon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8159529,
+          60.2190466
+        ]
+      },
+      "id": "node/4924249255"
     }
   ]
 }
