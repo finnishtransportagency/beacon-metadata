@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2017-06-27T09:40:02Z",
+  "timestamp": "2017-07-28T09:35:02Z",
   "features": [
     {
       "type": "Feature",
@@ -44,8 +44,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.8134654,
-          60.2191874
+          24.8135594,
+          60.21901
         ]
       },
       "id": "node/418349400"
@@ -260,7 +260,7 @@
       "properties": {
         "@id": "node/4924249255",
         "beacon:major": "0068",
-        "beacon:minor": "0x830",
+        "beacon:minor": "0x202A",
         "beacon:type": "bluetooth",
         "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
         "indoormark": "beacon"
