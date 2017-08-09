@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2017-07-28T09:35:02Z",
+  "timestamp": "2017-08-09T07:10:03Z",
   "features": [
     {
       "type": "Feature",
@@ -159,8 +159,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4803035766",
-        "beacon:major": "0044",
-        "beacon:minor": "1009",
+        "beacon:major": "0068",
+        "beacon:minor": "0x1009",
         "beacon:type": "bluetooth",
         "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
         "indoormark": "beacon",
@@ -273,6 +273,66 @@
         ]
       },
       "id": "node/4924249255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5023519577",
+        "beacon:major": "0068",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "beacon_minor": "0x1007",
+        "indoormark": "beacon",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8125619,
+          60.2194129
+        ]
+      },
+      "id": "node/5023519577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5023519578",
+        "beacon:major": "0068",
+        "beacon:minor": "0x1004",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "indoormark": "beacon",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8140669,
+          60.2193152
+        ]
+      },
+      "id": "node/5023519578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5023519579",
+        "beacon:major": "0068",
+        "beacon:minor": "0x1001",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "indoormark": "beacon",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8148035,
+          60.2192714
+        ]
+      },
+      "id": "node/5023519579"
     }
   ]
 }
