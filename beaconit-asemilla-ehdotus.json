@@ -1,0 +1,31 @@
+tamp: "20171101",
+  UUID: "7d7afdb9-14a3-eecc-a67d-dbd798a33c25",
+  stations: [
+    {stationId:"LPV", stationName:"Leppävaaran asema",
+    beacons: [
+      {
+        major: 65348,
+        minor: 2089,
+        isWelcome: true,
+        latitude: 60.2333,
+        longitude: 61.2333
+      },
+      {
+        major:68,
+        minor:2089,
+        tracks: [1],
+        latitude: 60.2333,
+        longitude: 61.2333
+      },
+      {
+        major:68,
+        minor:4138,
+        tracks: [2,3],
+        latitude: 60.2333,
+        longitude: 61.2333
+      }
+      ]
+    }
+    ]
+}
+
