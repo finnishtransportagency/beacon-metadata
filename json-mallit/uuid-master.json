@@ -29,7 +29,2689 @@
 			"vehicleType": [
 				"train"
 			],
-			"operatorDataset": "http://finnishtransportagency.github.io/beacons.json"
+			"operatorDataset": "http://finnishtransportagency.github.io/beacons.json",
+			"stations": [
+				{
+					"major": 1343,
+					"stationCode": "AHO",
+					"stationName": "Ahonpää"
+				},
+				{
+					"major": 1000,
+					"stationCode": "AHV",
+					"stationName": "Ahvenus"
+				},
+				{
+					"major": 628,
+					"stationCode": "AIN",
+					"stationName": "Ainola"
+				},
+				{
+					"major": 869,
+					"stationCode": "ARL",
+					"stationName": "Airaksela"
+				},
+				{
+					"major": 676,
+					"stationCode": "ATL",
+					"stationName": "Aittaluoto"
+				},
+				{
+					"major": 767,
+					"stationCode": "AJO",
+					"stationName": "Ajos"
+				},
+				{
+					"major": 415,
+					"stationCode": "APT",
+					"stationName": "Alapitkä"
+				},
+				{
+					"major": 284,
+					"stationCode": "ALV",
+					"stationName": "Alavus"
+				},
+				{
+					"major": 308,
+					"stationCode": "ALH",
+					"stationName": "Alholma"
+				},
+				{
+					"major": 939,
+					"stationCode": "ARO",
+					"stationName": "Arola"
+				},
+				{
+					"major": 1340,
+					"stationCode": "ASO",
+					"stationName": "Asola"
+				},
+				{
+					"major": 1331,
+					"stationCode": "AVP",
+					"stationName": "Aviapolis"
+				},
+				{
+					"major": 167,
+					"stationCode": "DRA",
+					"stationName": "Dragsvik"
+				},
+				{
+					"major": 581,
+					"stationCode": "DMV",
+					"stationName": "Dynamiittivaihde"
+				},
+				{
+					"major": 828,
+					"stationCode": "ELI",
+					"stationName": "Elijärvi"
+				},
+				{
+					"major": 623,
+					"stationCode": "EPZ",
+					"stationName": "Eläinpuisto-Zoo"
+				},
+				{
+					"major": 464,
+					"stationCode": "ENO",
+					"stationName": "Eno"
+				},
+				{
+					"major": 1004,
+					"stationCode": "ERV",
+					"stationName": "Ervelä"
+				},
+				{
+					"major": 318,
+					"stationCode": "ELA",
+					"stationName": "Eskola"
+				},
+				{
+					"major": 66,
+					"stationCode": "EPO",
+					"stationName": "Espoo"
+				},
+				{
+					"major": 330,
+					"stationCode": "HPJ",
+					"stationName": "Haapajärvi"
+				},
+				{
+					"major": 402,
+					"stationCode": "HPS",
+					"stationName": "Haapakoski"
+				},
+				{
+					"major": 1008,
+					"stationCode": "HMK",
+					"stationName": "Haapamäen kyllästämö"
+				},
+				{
+					"major": 200,
+					"stationCode": "HPK",
+					"stationName": "Haapamäki"
+				},
+				{
+					"major": 1408,
+					"stationCode": "HPA",
+					"stationName": "Haaparanta"
+				},
+				{
+					"major": 13,
+					"stationCode": "HAA",
+					"stationName": "Haarajoki"
+				},
+				{
+					"major": 1014,
+					"stationCode": "HLT",
+					"stationName": "Hakosilta"
+				},
+				{
+					"major": 1015,
+					"stationCode": "HSI",
+					"stationName": "Haksi"
+				},
+				{
+					"major": 527,
+					"stationCode": "HMA",
+					"stationName": "Hamina"
+				},
+				{
+					"major": 451,
+					"stationCode": "HSL",
+					"stationName": "Hammaslahti"
+				},
+				{
+					"major": 1018,
+					"stationCode": "HNA",
+					"stationName": "Hanala"
+				},
+				{
+					"major": 1020,
+					"stationCode": "HGS",
+					"stationName": "Hangonsaari"
+				},
+				{
+					"major": 812,
+					"stationCode": "HNH",
+					"stationName": "Hanhikoski"
+				},
+				{
+					"major": 427,
+					"stationCode": "HKS",
+					"stationName": "Hankasalmi"
+				},
+				{
+					"major": 73,
+					"stationCode": "HNK",
+					"stationName": "Hanko asema"
+				},
+				{
+					"major": 1317,
+					"stationCode": "HNKT",
+					"stationName": "Hanko tavara"
+				},
+				{
+					"major": 879,
+					"stationCode": "HKP",
+					"stationName": "Hanko-Pohjoinen"
+				},
+				{
+					"major": 218,
+					"stationCode": "HVA",
+					"stationName": "Harjavalta"
+				},
+				{
+					"major": 985,
+					"stationCode": "HJ",
+					"stationName": "Harju"
+				},
+				{
+					"major": 622,
+					"stationCode": "HRV",
+					"stationName": "Harviala"
+				},
+				{
+					"major": 342,
+					"stationCode": "HD",
+					"stationName": "Haukipudas"
+				},
+				{
+					"major": 549,
+					"stationCode": "HAU",
+					"stationName": "Haukivuori"
+				},
+				{
+					"major": 340,
+					"stationCode": "HAS",
+					"stationName": "Hausjärvi tavara"
+				},
+				{
+					"major": 1021,
+					"stationCode": "HVS",
+					"stationName": "Haviseva"
+				},
+				{
+					"major": 1334,
+					"stationCode": "HVK",
+					"stationName": "Havukoski"
+				},
+				{
+					"major": 1023,
+					"stationCode": "HEK",
+					"stationName": "Heikkilä"
+				},
+				{
+					"major": 113,
+					"stationCode": "HA",
+					"stationName": "Heinola"
+				},
+				{
+					"major": 1025,
+					"stationCode": "HNO",
+					"stationName": "Heinoo"
+				},
+				{
+					"major": 924,
+					"stationCode": "HÄV",
+					"stationName": "Heinävaara"
+				},
+				{
+					"major": 437,
+					"stationCode": "HNV",
+					"stationName": "Heinävesi"
+				},
+				{
+					"major": 1,
+					"stationCode": "HKI",
+					"stationName": "Helsinki asema"
+				},
+				{
+					"major": 1028,
+					"stationCode": "KHK",
+					"stationName": "Helsinki Kivihaka"
+				},
+				{
+					"major": 1164,
+					"stationCode": "HNN",
+					"stationName": "Henna"
+				},
+				{
+					"major": 96,
+					"stationCode": "HR",
+					"stationName": "Herrala"
+				},
+				{
+					"major": 556,
+					"stationCode": "HKH",
+					"stationName": "Hiekkaharju"
+				},
+				{
+					"major": 997,
+					"stationCode": "HIR",
+					"stationName": "Hiirola"
+				},
+				{
+					"major": 91,
+					"stationCode": "HK",
+					"stationName": "Hikiä"
+				},
+				{
+					"major": 988,
+					"stationCode": "HLS",
+					"stationName": "Hillosensalmi"
+				},
+				{
+					"major": 561,
+					"stationCode": "HH",
+					"stationName": "Hinthaara"
+				},
+				{
+					"major": 1041,
+					"stationCode": "HVN",
+					"stationName": "Hirvineva"
+				},
+				{
+					"major": 144,
+					"stationCode": "HP",
+					"stationName": "Humppila"
+				},
+				{
+					"major": 72,
+					"stationCode": "HPL",
+					"stationName": "Huopalahti"
+				},
+				{
+					"major": 430,
+					"stationCode": "HKO",
+					"stationName": "Huutokoski"
+				},
+				{
+					"major": 392,
+					"stationCode": "HYS",
+					"stationName": "Hyrynsalmi"
+				},
+				{
+					"major": 30,
+					"stationCode": "HY",
+					"stationName": "Hyvinkää"
+				},
+				{
+					"major": 47,
+					"stationCode": "HL",
+					"stationName": "Hämeenlinna"
+				},
+				{
+					"major": 300,
+					"stationCode": "HM",
+					"stationName": "Härmä"
+				},
+				{
+					"major": 938,
+					"stationCode": "HÖL",
+					"stationName": "Höljäkkä"
+				},
+				{
+					"major": 343,
+					"stationCode": "II",
+					"stationName": "Ii"
+				},
+				{
+					"major": 1049,
+					"stationCode": "ITR",
+					"stationName": "Iisalmen teollisuusraiteet"
+				},
+				{
+					"major": 420,
+					"stationCode": "ILM",
+					"stationName": "Iisalmi"
+				},
+				{
+					"major": 154,
+					"stationCode": "ITA",
+					"stationName": "Iittala"
+				},
+				{
+					"major": 9,
+					"stationCode": "ILA",
+					"stationName": "Ilmala asema"
+				},
+				{
+					"major": 1030,
+					"stationCode": "ILR",
+					"stationName": "Ilmala ratapiha"
+				},
+				{
+					"major": 459,
+					"stationCode": "ILO",
+					"stationName": "Ilomantsi"
+				},
+				{
+					"major": 603,
+					"stationCode": "IMR",
+					"stationName": "Imatra asema"
+				},
+				{
+					"major": 502,
+					"stationCode": "IMT",
+					"stationName": "Imatra tavara"
+				},
+				{
+					"major": 504,
+					"stationCode": "IMK",
+					"stationName": "Imatrankoski"
+				},
+				{
+					"major": 503,
+					"stationCode": "IMKR",
+					"stationName": "Imatrankoski-raja"
+				},
+				{
+					"major": 264,
+					"stationCode": "IN",
+					"stationName": "Inha"
+				},
+				{
+					"major": 530,
+					"stationCode": "IKR",
+					"stationName": "Inkeroinen"
+				},
+				{
+					"major": 62,
+					"stationCode": "IKO",
+					"stationName": "Inkoo"
+				},
+				{
+					"major": 295,
+					"stationCode": "IKY",
+					"stationName": "Isokyrö"
+				},
+				{
+					"major": 276,
+					"stationCode": "JAL",
+					"stationName": "Jalasjärvi"
+				},
+				{
+					"major": 303,
+					"stationCode": "JPA",
+					"stationName": "Jepua"
+				},
+				{
+					"major": 460,
+					"stationCode": "JNS",
+					"stationName": "Joensuu asema"
+				},
+				{
+					"major": 1070,
+					"stationCode": "PLT",
+					"stationName": "Joensuu Peltola"
+				},
+				{
+					"major": 1071,
+					"stationCode": "SUL",
+					"stationName": "Joensuu Sulkulahti"
+				},
+				{
+					"major": 28,
+					"stationCode": "JK",
+					"stationName": "Jokela"
+				},
+				{
+					"major": 431,
+					"stationCode": "JOR",
+					"stationName": "Joroinen"
+				},
+				{
+					"major": 578,
+					"stationCode": "JRS",
+					"stationName": "Jorvas"
+				},
+				{
+					"major": 499,
+					"stationCode": "JTS",
+					"stationName": "Joutseno"
+				},
+				{
+					"major": 414,
+					"stationCode": "JKI",
+					"stationName": "Juankoski"
+				},
+				{
+					"major": 1085,
+					"stationCode": "JUT",
+					"stationName": "Jutila"
+				},
+				{
+					"major": 627,
+					"stationCode": "JJ",
+					"stationName": "Juupajoki"
+				},
+				{
+					"major": 535,
+					"stationCode": "JRI",
+					"stationName": "Juurikorpi"
+				},
+				{
+					"major": 240,
+					"stationCode": "JY",
+					"stationName": "Jyväskylä"
+				},
+				{
+					"major": 204,
+					"stationCode": "JÄS",
+					"stationName": "Jämsä"
+				},
+				{
+					"major": 205,
+					"stationCode": "JSK",
+					"stationName": "Jämsänkoski"
+				},
+				{
+					"major": 95,
+					"stationCode": "JR",
+					"stationName": "Järvelä"
+				},
+				{
+					"major": 25,
+					"stationCode": "JP",
+					"stationName": "Järvenpää asema"
+				},
+				{
+					"major": 485,
+					"stationCode": "KPA",
+					"stationName": "Kaipiainen"
+				},
+				{
+					"major": 656,
+					"stationCode": "KLA",
+					"stationName": "Kaipola"
+				},
+				{
+					"major": 230,
+					"stationCode": "KKO",
+					"stationName": "Kairokoski"
+				},
+				{
+					"major": 944,
+					"stationCode": "KJR",
+					"stationName": "Kaitjärvi"
+				},
+				{
+					"major": 387,
+					"stationCode": "KAJ",
+					"stationName": "Kajaani"
+				},
+				{
+					"major": 697,
+					"stationCode": "KTN",
+					"stationName": "Kaleton"
+				},
+				{
+					"major": 639,
+					"stationCode": "KAU",
+					"stationName": "Kalkku"
+				},
+				{
+					"major": 1090,
+					"stationCode": "KAO",
+					"stationName": "Kalliovarasto"
+				},
+				{
+					"major": 548,
+					"stationCode": "KSA",
+					"stationName": "Kalvitsa"
+				},
+				{
+					"major": 1092,
+					"stationCode": "KGS",
+					"stationName": "Kangas"
+				},
+				{
+					"major": 658,
+					"stationCode": "KAN",
+					"stationName": "Kannelmäki"
+				},
+				{
+					"major": 256,
+					"stationCode": "KSI",
+					"stationName": "Kannonkoski"
+				},
+				{
+					"major": 317,
+					"stationCode": "KNS",
+					"stationName": "Kannus"
+				},
+				{
+					"major": 1095,
+					"stationCode": "KRR",
+					"stationName": "Karhejärvi"
+				},
+				{
+					"major": 1097,
+					"stationCode": "KHG",
+					"stationName": "Karhukangas"
+				},
+				{
+					"major": 60,
+					"stationCode": "KR",
+					"stationName": "Karjaa"
+				},
+				{
+					"major": 178,
+					"stationCode": "KRU",
+					"stationName": "Karkku"
+				},
+				{
+					"major": 1100,
+					"stationCode": "KAR",
+					"stationName": "Karviainen"
+				},
+				{
+					"major": 267,
+					"stationCode": "KSK",
+					"stationName": "Kaskinen"
+				},
+				{
+					"major": 1319,
+					"stationCode": "KTH",
+					"stationName": "Kattilaharju"
+				},
+				{
+					"major": 272,
+					"stationCode": "KJI",
+					"stationName": "Kauhajoki"
+				},
+				{
+					"major": 299,
+					"stationCode": "KHA",
+					"stationName": "Kauhava"
+				},
+				{
+					"major": 65,
+					"stationCode": "KLH",
+					"stationName": "Kauklahti asema"
+				},
+				{
+					"major": 790,
+					"stationCode": "KLR",
+					"stationName": "Kaulinranta"
+				},
+				{
+					"major": 67,
+					"stationCode": "KNI",
+					"stationName": "Kauniainen"
+				},
+				{
+					"major": 423,
+					"stationCode": "KPL",
+					"stationName": "Kauppilanmäki"
+				},
+				{
+					"major": 477,
+					"stationCode": "KA",
+					"stationName": "Kausala"
+				},
+				{
+					"major": 257,
+					"stationCode": "KTP",
+					"stationName": "Keitelepohja"
+				},
+				{
+					"major": 1101,
+					"stationCode": "KEK",
+					"stationName": "Kekomäki"
+				},
+				{
+					"major": 347,
+					"stationCode": "KEM",
+					"stationName": "Kemi"
+				},
+				{
+					"major": 367,
+					"stationCode": "KJÄ",
+					"stationName": "Kemijärvi"
+				},
+				{
+					"major": 769,
+					"stationCode": "KML",
+					"stationName": "Kempele"
+				},
+				{
+					"major": 621,
+					"stationCode": "KEA",
+					"stationName": "Kera"
+				},
+				{
+					"major": 20,
+					"stationCode": "KE",
+					"stationName": "Kerava asema"
+				},
+				{
+					"major": 522,
+					"stationCode": "KIÄ",
+					"stationName": "Kerimäki"
+				},
+				{
+					"major": 966,
+					"stationCode": "KTI",
+					"stationName": "Kesälahti"
+				},
+				{
+					"major": 235,
+					"stationCode": "KEU",
+					"stationName": "Keuruu"
+				},
+				{
+					"major": 1113,
+					"stationCode": "KIA",
+					"stationName": "Kiiala"
+				},
+				{
+					"major": 580,
+					"stationCode": "KIL",
+					"stationName": "Kilo"
+				},
+				{
+					"major": 1115,
+					"stationCode": "KUA",
+					"stationName": "Kilpua"
+				},
+				{
+					"major": 873,
+					"stationCode": "KNH",
+					"stationName": "Kinahmi"
+				},
+				{
+					"major": 1120,
+					"stationCode": "KII",
+					"stationName": "Kinni"
+				},
+				{
+					"major": 1123,
+					"stationCode": "KIJ",
+					"stationName": "Kirjola"
+				},
+				{
+					"major": 63,
+					"stationCode": "KKN",
+					"stationName": "Kirkkonummi"
+				},
+				{
+					"major": 79,
+					"stationCode": "KRN",
+					"stationName": "Kirkniemi"
+				},
+				{
+					"major": 453,
+					"stationCode": "KIT",
+					"stationName": "Kitee"
+				},
+				{
+					"major": 169,
+					"stationCode": "KN",
+					"stationName": "Kiukainen"
+				},
+				{
+					"major": 417,
+					"stationCode": "KRV",
+					"stationName": "Kiuruvesi"
+				},
+				{
+					"major": 378,
+					"stationCode": "KVJ",
+					"stationName": "Kivesjärvi"
+				},
+				{
+					"major": 1330,
+					"stationCode": "KTÖ",
+					"stationName": "Kivistö"
+				},
+				{
+					"major": 848,
+					"stationCode": "KOH",
+					"stationName": "Kohtavaara"
+				},
+				{
+					"major": 362,
+					"stationCode": "KVU",
+					"stationName": "Koivu"
+				},
+				{
+					"major": 675,
+					"stationCode": "KVH",
+					"stationName": "Koivuhovi"
+				},
+				{
+					"major": 559,
+					"stationCode": "KVY",
+					"stationName": "Koivukylä"
+				},
+				{
+					"major": 170,
+					"stationCode": "KKI",
+					"stationName": "Kokemäki"
+				},
+				{
+					"major": 312,
+					"stationCode": "KOK",
+					"stationName": "Kokkola"
+				},
+				{
+					"major": 358,
+					"stationCode": "KLI",
+					"stationName": "Kolari"
+				},
+				{
+					"major": 199,
+					"stationCode": "KLO",
+					"stationName": "Kolho"
+				},
+				{
+					"major": 309,
+					"stationCode": "KPI",
+					"stationName": "Kolppi"
+				},
+				{
+					"major": 500,
+					"stationCode": "KMM",
+					"stationName": "Kommila"
+				},
+				{
+					"major": 758,
+					"stationCode": "KOM",
+					"stationName": "Komu"
+				},
+				{
+					"major": 463,
+					"stationCode": "KHI",
+					"stationName": "Kontiolahti"
+				},
+				{
+					"major": 390,
+					"stationCode": "KON",
+					"stationName": "Kontiomäki"
+				},
+				{
+					"major": 478,
+					"stationCode": "KRA",
+					"stationName": "Koria"
+				},
+				{
+					"major": 193,
+					"stationCode": "KAS",
+					"stationName": "Korkeakoski"
+				},
+				{
+					"major": 19,
+					"stationCode": "KRS",
+					"stationName": "Korso"
+				},
+				{
+					"major": 1128,
+					"stationCode": "KSU",
+					"stationName": "Korvensuo"
+				},
+				{
+					"major": 274,
+					"stationCode": "KOS",
+					"stationName": "Koskenkorva"
+				},
+				{
+					"major": 532,
+					"stationCode": "KTA",
+					"stationName": "Kotka asema"
+				},
+				{
+					"major": 980,
+					"stationCode": "HOS",
+					"stationName": "Kotka Hovinsaari"
+				},
+				{
+					"major": 557,
+					"stationCode": "MSS",
+					"stationName": "Kotka Mussalo"
+				},
+				{
+					"major": 1130,
+					"stationCode": "KTT",
+					"stationName": "Kotka tavara"
+				},
+				{
+					"major": 644,
+					"stationCode": "KTS",
+					"stationName": "Kotkan satama"
+				},
+				{
+					"major": 1329,
+					"stationCode": "KOO",
+					"stationName": "Kotolahti"
+				},
+				{
+					"major": 480,
+					"stationCode": "KV",
+					"stationName": "Kouvola asema"
+				},
+				{
+					"major": 1132,
+					"stationCode": "KVLA",
+					"stationName": "Kouvola lajittelu"
+				},
+				{
+					"major": 1133,
+					"stationCode": "OIK",
+					"stationName": "Kouvola Oikoraide"
+				},
+				{
+					"major": 1134,
+					"stationCode": "KVT",
+					"stationName": "Kouvola tavara"
+				},
+				{
+					"major": 745,
+					"stationCode": "KOI",
+					"stationName": "Kovjoki"
+				},
+				{
+					"major": 311,
+					"stationCode": "KPY",
+					"stationName": "Kruunupyy"
+				},
+				{
+					"major": 1137,
+					"stationCode": "KIS",
+					"stationName": "Kuivasjärvi"
+				},
+				{
+					"major": 1320,
+					"stationCode": "KUV",
+					"stationName": "Kullasvaara"
+				},
+				{
+					"major": 408,
+					"stationCode": "KUO",
+					"stationName": "Kuopio asema"
+				},
+				{
+					"major": 1139,
+					"stationCode": "KUOT",
+					"stationName": "Kuopio tavara"
+				},
+				{
+					"major": 126,
+					"stationCode": "KUT",
+					"stationName": "Kupittaa"
+				},
+				{
+					"major": 406,
+					"stationCode": "KRM",
+					"stationName": "Kurkimäki"
+				},
+				{
+					"major": 626,
+					"stationCode": "KU",
+					"stationName": "Kuurila"
+				},
+				{
+					"major": 537,
+					"stationCode": "KUK",
+					"stationName": "Kuusankoski"
+				},
+				{
+					"major": 937,
+					"stationCode": "KYN",
+					"stationName": "Kylänlahti"
+				},
+				{
+					"major": 534,
+					"stationCode": "KY",
+					"stationName": "Kymi"
+				},
+				{
+					"major": 981,
+					"stationCode": "KLN",
+					"stationName": "Kyminlinna"
+				},
+				{
+					"major": 139,
+					"stationCode": "KÖ",
+					"stationName": "Kyrö"
+				},
+				{
+					"major": 1111,
+					"stationCode": "KYT",
+					"stationName": "Kytömaa"
+				},
+				{
+					"major": 316,
+					"stationCode": "KLV",
+					"stationName": "Kälviä"
+				},
+				{
+					"major": 977,
+					"stationCode": "KÄP",
+					"stationName": "Käpylä"
+				},
+				{
+					"major": 1144,
+					"stationCode": "KÖK",
+					"stationName": "Köykkäri"
+				},
+				{
+					"major": 1341,
+					"stationCode": "LAV",
+					"stationName": "Laajavuori"
+				},
+				{
+					"major": 1149,
+					"stationCode": "LPR",
+					"stationName": "Lahdenperä"
+				},
+				{
+					"major": 871,
+					"stationCode": "LHN",
+					"stationName": "Lahnaslampi"
+				},
+				{
+					"major": 100,
+					"stationCode": "LH",
+					"stationName": "Lahti"
+				},
+				{
+					"major": 293,
+					"stationCode": "LAI",
+					"stationName": "Laihia"
+				},
+				{
+					"major": 212,
+					"stationCode": "LAK",
+					"stationName": "Lakiala"
+				},
+				{
+					"major": 1151,
+					"stationCode": "LMK",
+					"stationName": "Lamminkoski"
+				},
+				{
+					"major": 845,
+					"stationCode": "LAM",
+					"stationName": "Lamminniemi"
+				},
+				{
+					"major": 108,
+					"stationCode": "LPJ",
+					"stationName": "Lapinjärvi"
+				},
+				{
+					"major": 416,
+					"stationCode": "LNA",
+					"stationName": "Lapinlahti"
+				},
+				{
+					"major": 683,
+					"stationCode": "LPN",
+					"stationName": "Lapinneva"
+				},
+				{
+					"major": 495,
+					"stationCode": "LR",
+					"stationName": "Lappeenranta"
+				},
+				{
+					"major": 94,
+					"stationCode": "LAA",
+					"stationName": "Lappila"
+				},
+				{
+					"major": 75,
+					"stationCode": "LPO",
+					"stationName": "Lappohja"
+				},
+				{
+					"major": 298,
+					"stationCode": "LPA",
+					"stationName": "Lapua"
+				},
+				{
+					"major": 1153,
+					"stationCode": "LYÖ",
+					"stationName": "Larvakytö"
+				},
+				{
+					"major": 249,
+					"stationCode": "LAU",
+					"stationName": "Laukaa"
+				},
+				{
+					"major": 360,
+					"stationCode": "LLA",
+					"stationName": "Laurila"
+				},
+				{
+					"major": 498,
+					"stationCode": "LRS",
+					"stationName": "Lauritsala"
+				},
+				{
+					"major": 829,
+					"stationCode": "LI",
+					"stationName": "Lautiosaari"
+				},
+				{
+					"major": 1333,
+					"stationCode": "LNÄ",
+					"stationName": "Leinelä"
+				},
+				{
+					"major": 993,
+					"stationCode": "LKL",
+					"stationName": "Lelkola"
+				},
+				{
+					"major": 156,
+					"stationCode": "LPÄ",
+					"stationName": "Lempäälä"
+				},
+				{
+					"major": 1332,
+					"stationCode": "LEN",
+					"stationName": "Lentoasema"
+				},
+				{
+					"major": 43,
+					"stationCode": "LK",
+					"stationName": "Leppäkoski"
+				},
+				{
+					"major": 68,
+					"stationCode": "LPV",
+					"stationName": "Leppävaara"
+				},
+				{
+					"major": 1154,
+					"stationCode": "LTS",
+					"stationName": "Leteensuo"
+				},
+				{
+					"major": 468,
+					"stationCode": "LIS",
+					"stationName": "Lieksa"
+				},
+				{
+					"major": 1157,
+					"stationCode": "LTK",
+					"stationName": "Lieksan teollisuuskylä"
+				},
+				{
+					"major": 183,
+					"stationCode": "LLH",
+					"stationName": "Lielahti"
+				},
+				{
+					"major": 246,
+					"stationCode": "LVT",
+					"stationName": "Lievestuore"
+				},
+				{
+					"major": 338,
+					"stationCode": "LKA",
+					"stationName": "Liminka"
+				},
+				{
+					"major": 1159,
+					"stationCode": "LUO",
+					"stationName": "Lohiluoma"
+				},
+				{
+					"major": 81,
+					"stationCode": "LO",
+					"stationName": "Lohja"
+				},
+				{
+					"major": 142,
+					"stationCode": "LM",
+					"stationName": "Loimaa"
+				},
+				{
+					"major": 661,
+					"stationCode": "LOH",
+					"stationName": "Louhela"
+				},
+				{
+					"major": 861,
+					"stationCode": "LOL",
+					"stationName": "Loukolampi"
+				},
+				{
+					"major": 106,
+					"stationCode": "LVS",
+					"stationName": "Loviisan satama"
+				},
+				{
+					"major": 411,
+					"stationCode": "LUI",
+					"stationName": "Luikonlahti"
+				},
+				{
+					"major": 71,
+					"stationCode": "LMA",
+					"stationName": "Luoma"
+				},
+				{
+					"major": 690,
+					"stationCode": "LUS",
+					"stationName": "Lusto"
+				},
+				{
+					"major": 487,
+					"stationCode": "LÄ",
+					"stationName": "Luumäki"
+				},
+				{
+					"major": 203,
+					"stationCode": "LÄP",
+					"stationName": "Länkipohja"
+				},
+				{
+					"major": 382,
+					"stationCode": "MLK",
+					"stationName": "Maanselkä"
+				},
+				{
+					"major": 1166,
+					"stationCode": "MRI",
+					"stationName": "Maaria"
+				},
+				{
+					"major": 217,
+					"stationCode": "MD",
+					"stationName": "Madesjärvi"
+				},
+				{
+					"major": 1168,
+					"stationCode": "MJJ",
+					"stationName": "Majajärvi"
+				},
+				{
+					"major": 17,
+					"stationCode": "ML",
+					"stationName": "Malmi"
+				},
+				{
+					"major": 659,
+					"stationCode": "MLO",
+					"stationName": "Malminkartano"
+				},
+				{
+					"major": 1336,
+					"stationCode": "MKA",
+					"stationName": "Mankala"
+				},
+				{
+					"major": 706,
+					"stationCode": "MNK",
+					"stationName": "Mankki"
+				},
+				{
+					"major": 896,
+					"stationCode": "MRK",
+					"stationName": "Markkala"
+				},
+				{
+					"major": 662,
+					"stationCode": "MRL",
+					"stationName": "Martinlaakso"
+				},
+				{
+					"major": 64,
+					"stationCode": "MAS",
+					"stationName": "Masala"
+				},
+				{
+					"major": 1171,
+					"stationCode": "MTV",
+					"stationName": "Matkaneva"
+				},
+				{
+					"major": 1172,
+					"stationCode": "MAT",
+					"stationName": "Mattila"
+				},
+				{
+					"major": 584,
+					"stationCode": "MEL",
+					"stationName": "Meltola"
+				},
+				{
+					"major": 558,
+					"stationCode": "MSÄ",
+					"stationName": "Metsäkansa"
+				},
+				{
+					"major": 546,
+					"stationCode": "MI",
+					"stationName": "Mikkeli"
+				},
+				{
+					"major": 366,
+					"stationCode": "MIS",
+					"stationName": "Misi"
+				},
+				{
+					"major": 93,
+					"stationCode": "MLA",
+					"stationName": "Mommila"
+				},
+				{
+					"major": 6007,
+					"stationCode": "MVA",
+					"stationName": "Moskova_(Leningradski)"
+				},
+				{
+					"major": 375,
+					"stationCode": "MH",
+					"stationName": "Muhos"
+				},
+				{
+					"major": 594,
+					"stationCode": "MUK",
+					"stationName": "Mukkula"
+				},
+				{
+					"major": 386,
+					"stationCode": "MUR",
+					"stationName": "Murtomäki"
+				},
+				{
+					"major": 78,
+					"stationCode": "MSO",
+					"stationName": "Mustio"
+				},
+				{
+					"major": 77,
+					"stationCode": "MST",
+					"stationName": "Mustolan satama"
+				},
+				{
+					"major": 1180,
+					"stationCode": "MKO",
+					"stationName": "Muukko"
+				},
+				{
+					"major": 433,
+					"stationCode": "MUU",
+					"stationName": "Muurame"
+				},
+				{
+					"major": 363,
+					"stationCode": "MUL",
+					"stationName": "Muurola"
+				},
+				{
+					"major": 1183,
+					"stationCode": "MYS",
+					"stationName": "Myllykangas"
+				},
+				{
+					"major": 536,
+					"stationCode": "MKI",
+					"stationName": "Myllykoski"
+				},
+				{
+					"major": 263,
+					"stationCode": "MY",
+					"stationName": "Myllymäki"
+				},
+				{
+					"major": 606,
+					"stationCode": "MYL",
+					"stationName": "Myllyoja"
+				},
+				{
+					"major": 543,
+					"stationCode": "MYT",
+					"stationName": "Mynttilä"
+				},
+				{
+					"major": 123,
+					"stationCode": "MYN",
+					"stationName": "Mynämäki"
+				},
+				{
+					"major": 660,
+					"stationCode": "MYR",
+					"stationName": "Myyrmäki"
+				},
+				{
+					"major": 693,
+					"stationCode": "MÄK",
+					"stationName": "Mäkkylä"
+				},
+				{
+					"major": 27,
+					"stationCode": "MLÄ",
+					"stationName": "Mäntsälä"
+				},
+				{
+					"major": 198,
+					"stationCode": "MÄN",
+					"stationName": "Mänttä"
+				},
+				{
+					"major": 544,
+					"stationCode": "MR",
+					"stationName": "Mäntyharju"
+				},
+				{
+					"major": 223,
+					"stationCode": "MN",
+					"stationName": "Mäntyluoto"
+				},
+				{
+					"major": 124,
+					"stationCode": "NNL",
+					"stationName": "Naantali"
+				},
+				{
+					"major": 895,
+					"stationCode": "NRI",
+					"stationName": "Naarajärvi"
+				},
+				{
+					"major": 672,
+					"stationCode": "NAL",
+					"stationName": "Nakkila"
+				},
+				{
+					"major": 595,
+					"stationCode": "NSL",
+					"stationName": "Nastola"
+				},
+				{
+					"major": 1185,
+					"stationCode": "NMP",
+					"stationName": "Niemenpää"
+				},
+				{
+					"major": 285,
+					"stationCode": "NII",
+					"stationName": "Niinimaa"
+				},
+				{
+					"major": 1324,
+					"stationCode": "NMÄ",
+					"stationName": "Niinimäki"
+				},
+				{
+					"major": 227,
+					"stationCode": "NNS",
+					"stationName": "Niinisalo"
+				},
+				{
+					"major": 446,
+					"stationCode": "NRL",
+					"stationName": "Niirala"
+				},
+				{
+					"major": 445,
+					"stationCode": "NRLR",
+					"stationName": "Niirala-raja"
+				},
+				{
+					"major": 917,
+					"stationCode": "NTH",
+					"stationName": "Niittylahti"
+				},
+				{
+					"major": 22,
+					"stationCode": "NLÄ",
+					"stationName": "Nikkilä"
+				},
+				{
+					"major": 328,
+					"stationCode": "NVL",
+					"stationName": "Nivala"
+				},
+				{
+					"major": 181,
+					"stationCode": "NOA",
+					"stationName": "Nokia"
+				},
+				{
+					"major": 84,
+					"stationCode": "NM",
+					"stationName": "Nummela"
+				},
+				{
+					"major": 565,
+					"stationCode": "NUP",
+					"stationName": "Nuppulinna"
+				},
+				{
+					"major": 472,
+					"stationCode": "NRM",
+					"stationName": "Nurmes"
+				},
+				{
+					"major": 268,
+					"stationCode": "NÄR",
+					"stationName": "Närpiö"
+				},
+				{
+					"major": 1190,
+					"stationCode": "OHM",
+					"stationName": "Ohenmäki"
+				},
+				{
+					"major": 92,
+					"stationCode": "OI",
+					"stationName": "Oitti"
+				},
+				{
+					"major": 570,
+					"stationCode": "OLLI",
+					"stationName": "Olli"
+				},
+				{
+					"major": 443,
+					"stationCode": "ONT",
+					"stationName": "Onttola"
+				},
+				{
+					"major": 109,
+					"stationCode": "OM",
+					"stationName": "Orimattila"
+				},
+				{
+					"major": 190,
+					"stationCode": "OV",
+					"stationName": "Orivesi"
+				},
+				{
+					"major": 1316,
+					"stationCode": "OVK",
+					"stationName": "Orivesi keskusta"
+				},
+				{
+					"major": 385,
+					"stationCode": "OTM",
+					"stationName": "Otanmäki"
+				},
+				{
+					"major": 545,
+					"stationCode": "OT",
+					"stationName": "Otava"
+				},
+				{
+					"major": 322,
+					"stationCode": "OU",
+					"stationName": "Oulainen"
+				},
+				{
+					"major": 370,
+					"stationCode": "OL",
+					"stationName": "Oulu asema"
+				},
+				{
+					"major": 1195,
+					"stationCode": "NOK",
+					"stationName": "Oulu Nokela"
+				},
+				{
+					"major": 1196,
+					"stationCode": "ORI",
+					"stationName": "Oulu Oritkari"
+				},
+				{
+					"major": 1197,
+					"stationCode": "OLT",
+					"stationName": "Oulu tavara"
+				},
+				{
+					"major": 339,
+					"stationCode": "TUA",
+					"stationName": "Oulu Tuira"
+				},
+				{
+					"major": 15,
+					"stationCode": "OLK",
+					"stationName": "Oulunkylä"
+				},
+				{
+					"major": 768,
+					"stationCode": "PTI",
+					"stationName": "Paimenportti"
+				},
+				{
+					"major": 128,
+					"stationCode": "PO",
+					"stationName": "Paimio"
+				},
+				{
+					"major": 562,
+					"stationCode": "PLP",
+					"stationName": "Palopuro"
+				},
+				{
+					"major": 379,
+					"stationCode": "PTO",
+					"stationName": "Paltamo"
+				},
+				{
+					"major": 935,
+					"stationCode": "PAS",
+					"stationName": "Pankakoski"
+				},
+				{
+					"major": 510,
+					"stationCode": "PAR",
+					"stationName": "Parikkala"
+				},
+				{
+					"major": 215,
+					"stationCode": "PKO",
+					"stationName": "Parkano"
+				},
+				{
+					"major": 49,
+					"stationCode": "PRL",
+					"stationName": "Parola"
+				},
+				{
+					"major": 10,
+					"stationCode": "PSL",
+					"stationName": "Pasila asema"
+				},
+				{
+					"major": 1328,
+					"stationCode": "PAU",
+					"stationName": "Pasila autojuna-asema"
+				},
+				{
+					"major": 1034,
+					"stationCode": "PSLT",
+					"stationName": "Pasila tavara"
+				},
+				{
+					"major": 1346,
+					"stationCode": "PTG",
+					"stationName": "Patokangas"
+				},
+				{
+					"major": 1055,
+					"stationCode": "PA",
+					"stationName": "Pelkola"
+				},
+				{
+					"major": 356,
+					"stationCode": "PEL",
+					"stationName": "Pello"
+				},
+				{
+					"major": 882,
+					"stationCode": "PMI",
+					"stationName": "Peltosalmi"
+				},
+				{
+					"major": 687,
+					"stationCode": "PSJ",
+					"stationName": "Peräseinäjoki"
+				},
+				{
+					"major": 393,
+					"stationCode": "PSK",
+					"stationName": "Pesiökylä"
+				},
+				{
+					"major": 1000,
+					"stationCode": "PTK",
+					"stationName": "Petroskoi / Petrozavodsk"
+				},
+				{
+					"major": 237,
+					"stationCode": "PVI",
+					"stationName": "Petäjävesi"
+				},
+				{
+					"major": 400,
+					"stationCode": "PM",
+					"stationName": "Pieksämäki asema"
+				},
+				{
+					"major": 1210,
+					"stationCode": "PMLA",
+					"stationName": "Pieksämäki lajittelu"
+				},
+				{
+					"major": 1211,
+					"stationCode": "PMT",
+					"stationName": "Pieksämäki tavara"
+				},
+				{
+					"major": 1212,
+					"stationCode": "TMU",
+					"stationName": "Pieksämäki Temu"
+				},
+				{
+					"major": 3820,
+					"stationCode": "PTR",
+					"stationName": "Pietari_(Finljandski)"
+				},
+				{
+					"major": 306,
+					"stationCode": "PTS",
+					"stationName": "Pietarsaari"
+				},
+				{
+					"major": 261,
+					"stationCode": "PH",
+					"stationName": "Pihlajavesi"
+				},
+				{
+					"major": 258,
+					"stationCode": "PP",
+					"stationName": "Pihtipudas"
+				},
+				{
+					"major": 127,
+					"stationCode": "PIK",
+					"stationName": "Piikkiö"
+				},
+				{
+					"major": 819,
+					"stationCode": "PKL",
+					"stationName": "Pikkarala"
+				},
+				{
+					"major": 69,
+					"stationCode": "PJM",
+					"stationName": "Pitäjänmäki"
+				},
+				{
+					"major": 59,
+					"stationCode": "PKU",
+					"stationName": "Pohjankuru"
+				},
+				{
+					"major": 657,
+					"stationCode": "POH",
+					"stationName": "Pohjois-Haaga"
+				},
+				{
+					"major": 1214,
+					"stationCode": "PLU",
+					"stationName": "Pohjois-Louko"
+				},
+				{
+					"major": 1216,
+					"stationCode": "PKK",
+					"stationName": "Poikkeus"
+				},
+				{
+					"major": 965,
+					"stationCode": "POI",
+					"stationName": "Poiksilta"
+				},
+				{
+					"major": 220,
+					"stationCode": "PRI",
+					"stationName": "Pori"
+				},
+				{
+					"major": 473,
+					"stationCode": "POR",
+					"stationName": "Porokylä"
+				},
+				{
+					"major": 23,
+					"stationCode": "PRV",
+					"stationName": "Porvoo"
+				},
+				{
+					"major": 919,
+					"stationCode": "PUS",
+					"stationName": "Puhos"
+				},
+				{
+					"major": 553,
+					"stationCode": "PLA",
+					"stationName": "Puistola"
+				},
+				{
+					"major": 551,
+					"stationCode": "PMK",
+					"stationName": "Pukinmäki"
+				},
+				{
+					"major": 1217,
+					"stationCode": "PL",
+					"stationName": "Pulsa"
+				},
+				{
+					"major": 517,
+					"stationCode": "PUN",
+					"stationName": "Punkaharju"
+				},
+				{
+					"major": 564,
+					"stationCode": "PUR",
+					"stationName": "Purola"
+				},
+				{
+					"major": 757,
+					"stationCode": "PYK",
+					"stationName": "Pyhäkumpu"
+				},
+				{
+					"major": 1218,
+					"stationCode": "PYE",
+					"stationName": "Pyhäkumpu erkanemisvaihde"
+				},
+				{
+					"major": 331,
+					"stationCode": "PHÄ",
+					"stationName": "Pyhäsalmi"
+				},
+				{
+					"major": 305,
+					"stationCode": "PNÄ",
+					"stationName": "Pännäinen"
+				},
+				{
+					"major": 519,
+					"stationCode": "PKY",
+					"stationName": "Pääskylahti"
+				},
+				{
+					"major": 99994,
+					"stationCode": "R530",
+					"stationName": "R530"
+				},
+				{
+					"major": 335,
+					"stationCode": "RHE",
+					"stationName": "Raahe"
+				},
+				{
+					"major": 99998,
+					"stationCode": "R934",
+					"stationName": "Raide934"
+				},
+				{
+					"major": 490,
+					"stationCode": "RPO",
+					"stationName": "Raippo"
+				},
+				{
+					"major": 125,
+					"stationCode": "RAI",
+					"stationName": "Raisio"
+				},
+				{
+					"major": 88,
+					"stationCode": "RM",
+					"stationName": "Rajamäki"
+				},
+				{
+					"major": 1220,
+					"stationCode": "RJP",
+					"stationName": "Rajaperkiö"
+				},
+				{
+					"major": 524,
+					"stationCode": "RMI",
+					"stationName": "Rantasalmi"
+				},
+				{
+					"major": 1222,
+					"stationCode": "RAS",
+					"stationName": "Rasinsuo"
+				},
+				{
+					"major": 596,
+					"stationCode": "RLÄ",
+					"stationName": "Ratikylä"
+				},
+				{
+					"major": 501,
+					"stationCode": "RAH",
+					"stationName": "Rauha"
+				},
+				{
+					"major": 1225,
+					"stationCode": "RHL",
+					"stationName": "Rauhalahti"
+				},
+				{
+					"major": 165,
+					"stationCode": "RMA",
+					"stationName": "Rauma"
+				},
+				{
+					"major": 1227,
+					"stationCode": "RIO",
+					"stationName": "Raunio"
+				},
+				{
+					"major": 750,
+					"stationCode": "RAT",
+					"stationName": "Rautaruukki"
+				},
+				{
+					"major": 506,
+					"stationCode": "RJÄ",
+					"stationName": "Rautjärvi"
+				},
+				{
+					"major": 1232,
+					"stationCode": "RPH",
+					"stationName": "Rautpohja"
+				},
+				{
+					"major": 554,
+					"stationCode": "RKL",
+					"stationName": "Rekola"
+				},
+				{
+					"major": 793,
+					"stationCode": "REE",
+					"stationName": "Retretti"
+				},
+				{
+					"major": 1235,
+					"stationCode": "ARP",
+					"stationName": "Riihimäki Arolampi"
+				},
+				{
+					"major": 40,
+					"stationCode": "RI",
+					"stationName": "Riihimäki asema"
+				},
+				{
+					"major": 1238,
+					"stationCode": "RILA",
+					"stationName": "Riihimäki lajittelu"
+				},
+				{
+					"major": 1240,
+					"stationCode": "RIT",
+					"stationName": "Riihimäki tavara"
+				},
+				{
+					"major": 1327,
+					"stationCode": "RJR",
+					"stationName": "Riijärvi"
+				},
+				{
+					"major": 747,
+					"stationCode": "RPA",
+					"stationName": "Riippa"
+				},
+				{
+					"major": 770,
+					"stationCode": "RST",
+					"stationName": "Ristiina"
+				},
+				{
+					"major": 391,
+					"stationCode": "RJV",
+					"stationName": "Ristijärvi"
+				},
+				{
+					"major": 364,
+					"stationCode": "ROI",
+					"stationName": "Rovaniemi"
+				},
+				{
+					"major": 742,
+					"stationCode": "RHA",
+					"stationName": "Ruha"
+				},
+				{
+					"major": 886,
+					"stationCode": "RNN",
+					"stationName": "Runni"
+				},
+				{
+					"major": 1342,
+					"stationCode": "RSU",
+					"stationName": "Ruokosuo"
+				},
+				{
+					"major": 337,
+					"stationCode": "RKI",
+					"stationName": "Ruukki"
+				},
+				{
+					"major": 1338,
+					"stationCode": "RSM",
+					"stationName": "Ruusumäki"
+				},
+				{
+					"major": 42,
+					"stationCode": "RY",
+					"stationName": "Ryttylä"
+				},
+				{
+					"major": 833,
+					"stationCode": "RÖY",
+					"stationName": "Röyttä"
+				},
+				{
+					"major": 668,
+					"stationCode": "SAA",
+					"stationName": "Saakoski"
+				},
+				{
+					"major": 964,
+					"stationCode": "SR",
+					"stationName": "Saari"
+				},
+				{
+					"major": 254,
+					"stationCode": "SRJ",
+					"stationName": "Saarijärvi"
+				},
+				{
+					"major": 405,
+					"stationCode": "SLN",
+					"stationName": "Salminen"
+				},
+				{
+					"major": 55,
+					"stationCode": "SLO",
+					"stationName": "Salo"
+				},
+				{
+					"major": 1246,
+					"stationCode": "SAM",
+					"stationName": "Sammalisto"
+				},
+				{
+					"major": 827,
+					"stationCode": "STA",
+					"stationName": "Santala"
+				},
+				{
+					"major": 806,
+					"stationCode": "SAU",
+					"stationName": "Saunakallio"
+				},
+				{
+					"major": 1325,
+					"stationCode": "SMÄ",
+					"stationName": "Saunamäki"
+				},
+				{
+					"major": 555,
+					"stationCode": "SAV",
+					"stationName": "Savio"
+				},
+				{
+					"major": 521,
+					"stationCode": "SL",
+					"stationName": "Savonlinna asema"
+				},
+				{
+					"major": 280,
+					"stationCode": "SK",
+					"stationName": "Seinäjoki asema"
+				},
+				{
+					"major": 1252,
+					"stationCode": "SKT",
+					"stationName": "Seinäjoki tavara"
+				},
+				{
+					"major": 539,
+					"stationCode": "SPÄ",
+					"stationName": "Selänpää"
+				},
+				{
+					"major": 796,
+					"stationCode": "SPJ",
+					"stationName": "Sieppijärvi"
+				},
+				{
+					"major": 319,
+					"stationCode": "SVI",
+					"stationName": "Sievi"
+				},
+				{
+					"major": 429,
+					"stationCode": "SKÄ",
+					"stationName": "Siikamäki"
+				},
+				{
+					"major": 413,
+					"stationCode": "SIJ",
+					"stationName": "Siilinjärvi Asema"
+				},
+				{
+					"major": 346,
+					"stationCode": "SIM",
+					"stationName": "Simo"
+				},
+				{
+					"major": 507,
+					"stationCode": "SPL",
+					"stationName": "Simpele"
+				},
+				{
+					"major": 1254,
+					"stationCode": "SIP",
+					"stationName": "Sipilä"
+				},
+				{
+					"major": 1257,
+					"stationCode": "STÖ",
+					"stationName": "Sisättö"
+				},
+				{
+					"major": 576,
+					"stationCode": "STI",
+					"stationName": "Siuntio"
+				},
+				{
+					"major": 179,
+					"stationCode": "SIU",
+					"stationName": "Siuro"
+				},
+				{
+					"major": 817,
+					"stationCode": "SGY",
+					"stationName": "Skogby"
+				},
+				{
+					"major": 560,
+					"stationCode": "SLD",
+					"stationName": "Sköldvik"
+				},
+				{
+					"major": 422,
+					"stationCode": "SOA",
+					"stationName": "Soinlahti"
+				},
+				{
+					"major": 870,
+					"stationCode": "SOR",
+					"stationName": "Sorsasalo"
+				},
+				{
+					"major": 424,
+					"stationCode": "SKV",
+					"stationName": "Sukeva"
+				},
+				{
+					"major": 251,
+					"stationCode": "SUO",
+					"stationName": "Suolahti"
+				},
+				{
+					"major": 404,
+					"stationCode": "SNJ",
+					"stationName": "Suonenjoki"
+				},
+				{
+					"major": 638,
+					"stationCode": "SNM",
+					"stationName": "Suoniemi"
+				},
+				{
+					"major": 435,
+					"stationCode": "SYR",
+					"stationName": "Syrjä"
+				},
+				{
+					"major": 1265,
+					"stationCode": "SKI",
+					"stationName": "Syrjämäki"
+				},
+				{
+					"major": 912,
+					"stationCode": "SMJ",
+					"stationName": "Sysmäjärvi"
+				},
+				{
+					"major": 918,
+					"stationCode": "SÄ",
+					"stationName": "Säkäniemi"
+				},
+				{
+					"major": 872,
+					"stationCode": "SKM",
+					"stationName": "Sänkimäki"
+				},
+				{
+					"major": 157,
+					"stationCode": "SJ",
+					"stationName": "Sääksjärvi"
+				},
+				{
+					"major": 486,
+					"stationCode": "TA",
+					"stationName": "Taavetti"
+				},
+				{
+					"major": 702,
+					"stationCode": "TKO",
+					"stationName": "Tahkoluoto"
+				},
+				{
+					"major": 1268,
+					"stationCode": "TE",
+					"stationName": "Taipale"
+				},
+				{
+					"major": 1270,
+					"stationCode": "TV",
+					"stationName": "Talviainen"
+				},
+				{
+					"major": 1323,
+					"stationCode": "TLV",
+					"stationName": "Talvivaara"
+				},
+				{
+					"major": 76,
+					"stationCode": "TMS",
+					"stationName": "Tammisaari"
+				},
+				{
+					"major": 160,
+					"stationCode": "TPE",
+					"stationName": "Tampere asema"
+				},
+				{
+					"major": 1272,
+					"stationCode": "JVS",
+					"stationName": "Tampere Järvensivu"
+				},
+				{
+					"major": 1273,
+					"stationCode": "TPET",
+					"stationName": "Tampere tavara"
+				},
+				{
+					"major": 1274,
+					"stationCode": "VKA",
+					"stationName": "Tampere Viinikka"
+				},
+				{
+					"major": 552,
+					"stationCode": "TNA",
+					"stationName": "Tapanila"
+				},
+				{
+					"major": 1276,
+					"stationCode": "TAP",
+					"stationName": "Tapavainola"
+				},
+				{
+					"major": 837,
+					"stationCode": "TSL",
+					"stationName": "Tavastila"
+				},
+				{
+					"major": 294,
+					"stationCode": "TK",
+					"stationName": "Tervajoki"
+				},
+				{
+					"major": 361,
+					"stationCode": "TRV",
+					"stationName": "Tervola"
+				},
+				{
+					"major": 271,
+					"stationCode": "TUV",
+					"stationName": "Teuva"
+				},
+				{
+					"major": 916,
+					"stationCode": "TKK",
+					"stationName": "Tikkala"
+				},
+				{
+					"major": 1335,
+					"stationCode": "TKP",
+					"stationName": "Tikkaperä"
+				},
+				{
+					"major": 18,
+					"stationCode": "TKL",
+					"stationName": "Tikkurila asema"
+				},
+				{
+					"major": 448,
+					"stationCode": "TOH",
+					"stationName": "Tohmajärvi"
+				},
+				{
+					"major": 150,
+					"stationCode": "TL",
+					"stationName": "Toijala"
+				},
+				{
+					"major": 412,
+					"stationCode": "TOI",
+					"stationName": "Toivala"
+				},
+				{
+					"major": 830,
+					"stationCode": "TOL",
+					"stationName": "Tolsa"
+				},
+				{
+					"major": 1280,
+					"stationCode": "TOM",
+					"stationName": "Tommola"
+				},
+				{
+					"major": 1283,
+					"stationCode": "TRK",
+					"stationName": "Torkkeli"
+				},
+				{
+					"major": 351,
+					"stationCode": "TOR",
+					"stationName": "Tornio asema"
+				},
+				{
+					"major": 1318,
+					"stationCode": "TRI",
+					"stationName": "Tornio-Itäinen"
+				},
+				{
+					"major": 678,
+					"stationCode": "TRR",
+					"stationName": "Tornio-raja"
+				},
+				{
+					"major": 579,
+					"stationCode": "TRL",
+					"stationName": "Tuomarila"
+				},
+				{
+					"major": 336,
+					"stationCode": "TJA",
+					"stationName": "Tuomioja"
+				},
+				{
+					"major": 44,
+					"stationCode": "TU",
+					"stationName": "Turenki"
+				},
+				{
+					"major": 130,
+					"stationCode": "TKU",
+					"stationName": "Turku asema"
+				},
+				{
+					"major": 135,
+					"stationCode": "TUS",
+					"stationName": "Turku satama"
+				},
+				{
+					"major": 1285,
+					"stationCode": "TKUT",
+					"stationName": "Turku tavara"
+				},
+				{
+					"major": 458,
+					"stationCode": "TPV",
+					"stationName": "Tuupovaara"
+				},
+				{
+					"major": 283,
+					"stationCode": "TUU",
+					"stationName": "Tuuri"
+				},
+				{
+					"major": 1287,
+					"stationCode": "TÖR",
+					"stationName": "Törmä"
+				},
+				{
+					"major": 1290,
+					"stationCode": "TRÄ",
+					"stationName": "Törölä"
+				},
+				{
+					"major": 465,
+					"stationCode": "UIM",
+					"stationName": "Uimaharju"
+				},
+				{
+					"major": 148,
+					"stationCode": "UR",
+					"stationName": "Urjala"
+				},
+				{
+					"major": 376,
+					"stationCode": "UTJ",
+					"stationName": "Utajärvi"
+				},
+				{
+					"major": 484,
+					"stationCode": "UTI",
+					"stationName": "Utti"
+				},
+				{
+					"major": 121,
+					"stationCode": "UKP",
+					"stationName": "Uusikaupunki"
+				},
+				{
+					"major": 105,
+					"stationCode": "UKÄ",
+					"stationName": "Uusikylä"
+				},
+				{
+					"major": 245,
+					"stationCode": "VKO",
+					"stationName": "Vaajakoski"
+				},
+				{
+					"major": 377,
+					"stationCode": "VAA",
+					"stationName": "Vaala"
+				},
+				{
+					"major": 807,
+					"stationCode": "VRA",
+					"stationName": "Vaarala"
+				},
+				{
+					"major": 288,
+					"stationCode": "VS",
+					"stationName": "Vaasa"
+				},
+				{
+					"major": 214,
+					"stationCode": "VJR",
+					"stationName": "Vahojärvi"
+				},
+				{
+					"major": 492,
+					"stationCode": "VNA",
+					"stationName": "Vainikkala asema"
+				},
+				{
+					"major": 1292,
+					"stationCode": "VNAT",
+					"stationName": "Vainikkala tavara"
+				},
+				{
+					"major": 493,
+					"stationCode": "VNAR",
+					"stationName": "Vainikkala-raja"
+				},
+				{
+					"major": 847,
+					"stationCode": "VMO",
+					"stationName": "Valimo"
+				},
+				{
+					"major": 153,
+					"stationCode": "VI",
+					"stationName": "Valkeakoski"
+				},
+				{
+					"major": 450,
+					"stationCode": "VSO",
+					"stationName": "Valkeasuo"
+				},
+				{
+					"major": 475,
+					"stationCode": "VLM",
+					"stationName": "Valtimo"
+				},
+				{
+					"major": 176,
+					"stationCode": "VMA",
+					"stationName": "Vammala"
+				},
+				{
+					"major": 1295,
+					"stationCode": "VTR",
+					"stationName": "Vanattara"
+				},
+				{
+					"major": 839,
+					"stationCode": "VKS",
+					"stationName": "Vantaankoski"
+				},
+				{
+					"major": 432,
+					"stationCode": "VAR",
+					"stationName": "Varkaus"
+				},
+				{
+					"major": 941,
+					"stationCode": "VUS",
+					"stationName": "Vartius"
+				},
+				{
+					"major": 949,
+					"stationCode": "VUR",
+					"stationName": "Vartius-raja"
+				},
+				{
+					"major": 1300,
+					"stationCode": "VKH",
+					"stationName": "Vasikkahaka"
+				},
+				{
+					"major": 291,
+					"stationCode": "VSK",
+					"stationName": "Vaskiluoto"
+				},
+				{
+					"major": 1337,
+					"stationCode": "VEH",
+					"stationName": "Vehkala"
+				},
+				{
+					"major": 428,
+					"stationCode": "VKI",
+					"stationName": "Venetmäki"
+				},
+				{
+					"major": 239,
+					"stationCode": "VN",
+					"stationName": "Vesanka"
+				},
+				{
+					"major": 471,
+					"stationCode": "VK",
+					"stationName": "Viekki"
+				},
+				{
+					"major": 112,
+					"stationCode": "VRM",
+					"stationName": "Vierumäki"
+				},
+				{
+					"major": 334,
+					"stationCode": "VTI",
+					"stationName": "Vihanti"
+				},
+				{
+					"major": 438,
+					"stationCode": "VIH",
+					"stationName": "Vihtari"
+				},
+				{
+					"major": 248,
+					"stationCode": "VRI",
+					"stationName": "Vihtavuori"
+				},
+				{
+					"major": 155,
+					"stationCode": "VIA",
+					"stationName": "Viiala"
+				},
+				{
+					"major": 440,
+					"stationCode": "VNJ",
+					"stationName": "Viinijärvi"
+				},
+				{
+					"major": 2000,
+					"stationCode": "VYB",
+					"stationName": "Viipuri"
+				},
+				{
+					"major": 104,
+					"stationCode": "VLH",
+					"stationName": "Villähde"
+				},
+				{
+					"major": 196,
+					"stationCode": "VLP",
+					"stationName": "Vilppula"
+				},
+				{
+					"major": 1305,
+					"stationCode": "VIN",
+					"stationName": "Vinnilä"
+				},
+				{
+					"major": 1339,
+					"stationCode": "VMS",
+					"stationName": "Virkamies"
+				},
+				{
+					"major": 302,
+					"stationCode": "VT",
+					"stationName": "Voltti"
+				},
+				{
+					"major": 541,
+					"stationCode": "VHJ",
+					"stationName": "Vuohijärvi"
+				},
+				{
+					"major": 1310,
+					"stationCode": "VJO",
+					"stationName": "Vuojoki"
+				},
+				{
+					"major": 383,
+					"stationCode": "VKT",
+					"stationName": "Vuokatti"
+				},
+				{
+					"major": 467,
+					"stationCode": "VSL",
+					"stationName": "Vuonislahti"
+				},
+				{
+					"major": 863,
+					"stationCode": "VNS",
+					"stationName": "Vuonos"
+				},
+				{
+					"major": 1321,
+					"stationCode": "VSA",
+					"stationName": "Vuosaari"
+				},
+				{
+					"major": 2410,
+					"stationCode": "VRS",
+					"stationName": "Värtsilä"
+				},
+				{
+					"major": 315,
+					"stationCode": "YKST",
+					"stationName": "Ykspihlaja tavara"
+				},
+				{
+					"major": 1326,
+					"stationCode": "YKSV",
+					"stationName": "Ykspihlaja väliratapiha"
+				},
+				{
+					"major": 296,
+					"stationCode": "YST",
+					"stationName": "Ylistaro"
+				},
+				{
+					"major": 789,
+					"stationCode": "YTR",
+					"stationName": "Ylitornio"
+				},
+				{
+					"major": 654,
+					"stationCode": "YLV",
+					"stationName": "Ylivalli"
+				},
+				{
+					"major": 320,
+					"stationCode": "YV",
+					"stationName": "Ylivieska"
+				},
+				{
+					"major": 867,
+					"stationCode": "YLK",
+					"stationName": "Yläkoski"
+				},
+				{
+					"major": 913,
+					"stationCode": "YLY",
+					"stationName": "Ylämylly"
+				},
+				{
+					"major": 211,
+					"stationCode": "YLÖ",
+					"stationName": "Ylöjärvi"
+				},
+				{
+					"major": 940,
+					"stationCode": "YPY",
+					"stationName": "Ypykkävaara"
+				},
+				{
+					"major": 174,
+					"stationCode": "ÄS",
+					"stationName": "Äetsä"
+				},
+				{
+					"major": 265,
+					"stationCode": "ÄHT",
+					"stationName": "Ähtäri"
+				},
+				{
+					"major": 394,
+					"stationCode": "ÄM",
+					"stationName": "Ämmänsaari"
+				},
+				{
+					"major": 252,
+					"stationCode": "ÄKI",
+					"stationName": "Äänekoski"
+				}
+			]
 		}
 	]
 }
