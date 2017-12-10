@@ -1,0 +1,35 @@
+{
+	"version": 1.0,
+	"uuidList": [
+		{
+			"uuid": "dfff7ada-a48a-4f77-aa9a-3a7943641e6c",
+			"operatorCode": [
+				"hsl"
+			],
+			"vehicleType": [
+				"bus"
+			],
+			"operatorDataset": "http://hsl.github.io/beacons.json"
+		},
+		{
+			"uuid": "dfff7ada-a48a-4f77-aa9a-3a7943641e6c",
+			"operatorCode": [
+				"hsl"
+			],
+			"vehicleType": [
+				"tram"
+			],
+			"operatorDataset": "http://hsl.github.io/beacons.json"
+		},
+		{
+			"uuid": "7d7afdb9-14a3-eecc-a67d-dbd798a33c25",
+			"operatorCode": [
+				"livi"
+			],
+			"vehicleType": [
+				"train"
+			],
+			"operatorDataset": "http://finnishtransportagency.github.io/beacons.json"
+		}
+	]
+}
