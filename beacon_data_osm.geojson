@@ -1,0 +1,338 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-08-09T07:10:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/38461143",
+        "beacon:major": "0068",
+        "beacon:minor": "0x829",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "indoormark": "beacon",
+        "level": "-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8134806,
+          60.2196112
+        ]
+      },
+      "id": "node/38461143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/418349400",
+        "beacon:major": "49",
+        "beacon:minor": "1033",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "dfff7ada-a48a-4f77-aa9a-3a7943641e6c",
+        "indoormark": "beacon",
+        "layer": "-1",
+        "level": "0",
+        "name": "Leppävaaran asema",
+        "name:fi": "Leppävaaran asema",
+        "name:sv": "Alberga station",
+        "public_transport": "platform",
+        "ref": "E1033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8135594,
+          60.21901
+        ]
+      },
+      "id": "node/418349400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1518655356",
+        "alt_ref": "16",
+        "beacon:major": "49",
+        "beacon:minor": "1024",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "dfff7ada-a48a-4f77-aa9a-3a7943641e6c",
+        "highway": "bus_stop",
+        "indoormark": "beacon",
+        "name": "Leppävaara",
+        "name:fi": "Leppävaara",
+        "name:sv": "Alberga",
+        "ref": "E1024",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8126228,
+          60.2192372
+        ]
+      },
+      "id": "node/1518655356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1518655369",
+        "alt_ref": "15",
+        "beacon:major": "49",
+        "beacon:minor": "1025",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "dfff7ada-a48a-4f77-aa9a-3a7943641e6c",
+        "highway": "bus_stop",
+        "indoormark": "beacon",
+        "name": "Leppävaara",
+        "name:fi": "Leppävaara",
+        "name:sv": "Alberga",
+        "ref": "E1025",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8120865,
+          60.2192689
+        ]
+      },
+      "id": "node/1518655369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1518655372",
+        "alt_ref": "14",
+        "beacon:major": "49",
+        "beacon:minor": "1026",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "dfff7ada-a48a-4f77-aa9a-3a7943641e6c",
+        "highway": "bus_stop",
+        "indoormark": "beacon",
+        "name": "Leppävaara",
+        "name:fi": "Leppävaara",
+        "name:sv": "Alberga",
+        "ref": "E1026",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8116415,
+          60.2192952
+        ]
+      },
+      "id": "node/1518655372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1518655390",
+        "alt_ref": "13",
+        "beacon:major": "49",
+        "beacon:minor": "1027",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "dfff7ada-a48a-4f77-aa9a-3a7943641e6c",
+        "highway": "bus_stop",
+        "indoormark": "beacon",
+        "name": "Leppävaara",
+        "name:fi": "Leppävaara",
+        "name:sv": "Alberga",
+        "ref": "E1027",
+        "route_ref": "236;236K;236V;239;239T",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8111762,
+          60.2193227
+        ]
+      },
+      "id": "node/1518655390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4803035766",
+        "beacon:major": "0068",
+        "beacon:minor": "0x1009",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "indoormark": "beacon",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8117374,
+          60.2194608
+        ]
+      },
+      "id": "node/4803035766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916030468",
+        "beacon:major": "0068",
+        "beacon:minor": "0x1029",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "indoormark": "beacon",
+        "level": "-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8134832,
+          60.2193518
+        ]
+      },
+      "id": "node/4916030468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4924219526",
+        "beacon:major": "0068",
+        "beacon:minor": "0x2029",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "indoormark": "beacon",
+        "level": "-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8134855,
+          60.2191717
+        ]
+      },
+      "id": "node/4924219526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4924233965",
+        "beacon:major": "0068",
+        "beacon:minor": "0x42A",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "indoormark": "beacon",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8159735,
+          60.2194183
+        ]
+      },
+      "id": "node/4924233965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4924246237",
+        "beacon:major": "0068",
+        "beacon:minor": "0x102A",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "indoormark": "beacon",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8159624,
+          60.2192188
+        ]
+      },
+      "id": "node/4924246237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4924249255",
+        "beacon:major": "0068",
+        "beacon:minor": "0x202A",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "indoormark": "beacon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8159529,
+          60.2190466
+        ]
+      },
+      "id": "node/4924249255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5023519577",
+        "beacon:major": "0068",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "beacon_minor": "0x1007",
+        "indoormark": "beacon",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8125619,
+          60.2194129
+        ]
+      },
+      "id": "node/5023519577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5023519578",
+        "beacon:major": "0068",
+        "beacon:minor": "0x1004",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "indoormark": "beacon",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8140669,
+          60.2193152
+        ]
+      },
+      "id": "node/5023519578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5023519579",
+        "beacon:major": "0068",
+        "beacon:minor": "0x1001",
+        "beacon:type": "bluetooth",
+        "beacon:uuid": "7d7afdb914a3eecca67ddbd798a33c25",
+        "indoormark": "beacon",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8148035,
+          60.2192714
+        ]
+      },
+      "id": "node/5023519579"
+    }
+  ]
+}
